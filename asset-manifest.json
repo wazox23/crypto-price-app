@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/crypto-price-app/static/css/main.be7006c5.css",
-    "main.js": "/crypto-price-app/static/js/main.5251f457.js",
+    "main.js": "/crypto-price-app/static/js/main.fea50e47.js",
     "static/media/btc.png": "/crypto-price-app/static/media/btc.0b9123627d13f41b0125.png",
     "static/media/loading.gif": "/crypto-price-app/static/media/loading.90672f1deffccbcdf4f1.gif",
     "static/media/moon.png": "/crypto-price-app/static/media/moon.43720f952c5beeac3b82.png",
     "index.html": "/crypto-price-app/index.html",
     "main.be7006c5.css.map": "/crypto-price-app/static/css/main.be7006c5.css.map",
-    "main.5251f457.js.map": "/crypto-price-app/static/js/main.5251f457.js.map"
+    "main.fea50e47.js.map": "/crypto-price-app/static/js/main.fea50e47.js.map"
   },
   "entrypoints": [
     "static/css/main.be7006c5.css",
-    "static/js/main.5251f457.js"
+    "static/js/main.fea50e47.js"
   ]
 }
