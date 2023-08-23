@@ -1,0 +1,10 @@
+$primary-600: #e3c9ff;
+$surface-mixed-300: #595161;
+$surface-mixed-100: #30273a;
+
+.container {
+  background-color: $surface-mixed-100;
+  width: 100vw;
+  height: auto;
+  min-height: 100vh;
+}

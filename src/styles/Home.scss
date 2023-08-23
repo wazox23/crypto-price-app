@@ -1,0 +1,20 @@
+$surface-mixed-100: #30273a;
+
+.app-container {
+  background-color: $surface-mixed-100;
+  width: 100vw;
+  height: auto;
+  min-height: 100vh;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    padding: 1rem;
+  }
+
+  .navbar .d-flex {
+    width: 100%;
+    margin-top: 0.5rem;
+  }
+}

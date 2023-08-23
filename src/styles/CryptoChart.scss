@@ -1,0 +1,26 @@
+$primary-500: #dcbbfe;
+$surface-mixed-300: #595161;
+
+$primary-500: #dcbbfe;
+$surface-mixed-300: #595161;
+
+button {
+  background-color: $primary-500;
+  border: none;
+  font-family: "Fjalla One", sans-serif;
+  color: $surface-mixed-300;
+  padding: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s, box-shadow 0.3s;
+
+  .btn-round {
+    margin: 5px 0;
+  }
+
+  &:hover,
+  &:focus {
+    background-color: #f0f0f0;
+    outline: none;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+  }
+}
